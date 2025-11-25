@@ -1,10 +1,5 @@
 # Define below the function called "multi" that expects 2 parameters
 
 # Don't edit anything below this line
-
-def multi(a , b):
-    total = a * b
-    return total
-
 return_value = multi(7,53812212)
 print(return_value)
